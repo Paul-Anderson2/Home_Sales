@@ -2,6 +2,8 @@
 
 Module 22 challenge
 
+- Note that one of the referenced datasets did not load properly. The code was able to run without that dataset, however. 
+
 In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
